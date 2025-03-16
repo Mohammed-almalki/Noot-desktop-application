@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1 className='font-bold text-sm text-cyan-500'>mohammed</h1>
-      <CountUp end={100} />
+      <CountUp end={100000000} />
     </>
   )
 }
